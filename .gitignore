@@ -1,0 +1,8 @@
+# WebStorm project files
+.idea
+
+# NodeJS modules
+node_modules
+
+# CSV files
+*/*.csv
